@@ -1,0 +1,11 @@
+We are hiring a Python Developer.
+
+Required Skills:
+Python
+SQL
+Machine Learning
+Data Analysis
+Pandas
+NumPy
+Communication Skills
+Problem Solving

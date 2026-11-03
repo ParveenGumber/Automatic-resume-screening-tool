@@ -1,0 +1,4 @@
+Resume,Experience (Years),Education,Certifications,Similarity Score,Skill Match %,Final Score,Matched Skills,Decision
+resume1.txt,3,computer science,"aws, machine learning, python certification",54.06,100.0,67.84,"sql, numpy, python, pandas, data analysis, problem solving, communication, machine learning",Shortlisted
+resume3.txt,0,"msc, data science",,24.46,50.0,32.12,"python, pandas, data analysis, sql",Rejected
+resume2.txt,0,bca,,8.13,0.0,5.69,,Rejected

@@ -1,0 +1,15 @@
+Sarah Smith
+
+Frontend Developer
+
+Skills:
+HTML
+CSS
+JavaScript
+React
+
+Education:
+BCA
+
+Experience:
+Built responsive websites and UI applications.

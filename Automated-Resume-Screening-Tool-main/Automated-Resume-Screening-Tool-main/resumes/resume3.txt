@@ -1,0 +1,17 @@
+Michael Johnson
+
+Data Analyst
+
+Skills:
+Python
+SQL
+Excel
+Power BI
+Pandas
+Data Analysis
+
+Education:
+MSc Data Science
+
+Experience:
+Worked on business analytics dashboards and reporting systems.
